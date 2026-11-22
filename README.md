@@ -65,8 +65,16 @@ Overall Impact: Reduces food wastage, improves supply chain efficiency, and crea
 
 ## Research and References
 1.Google
+
+
 2.Wikipedia
+
+
 3.https://timesofindia.indiatimes.com/city/kanpur/complaints-of-farmers-heard-and-resolved-on-spot-during-kisan-diwas/articleshow/135969225.cms
+
+
 4.https://www.bighaat.com/kisan-vedika/blogs/11-major-problems-faced-by-indian-farmers-in-agriculture?srsltid=AYCX9vKJF3hgb3XhUKW1Xw4YgEKvM4bdDXn97vezRVHAnGL4KhnUSavO
+
+
 5.ChatGPT
 
