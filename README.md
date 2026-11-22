@@ -43,6 +43,8 @@ Implementation: Farmers upload their available products, buyers place orders, an
 Basic Workflow:
 Farmer Registration → Product Listing → Buyer Orders → AI Demand Prediction → Logistics Management → Product Delivery.
 
+<img width="1252" height="777" alt="image" src="https://github.com/user-attachments/assets/58e00212-a7d5-4df3-bb72-bf508b23c808" />
+
 ## Feasibility and Viability
 Feasibility: The platform can be developed using existing web technologies, AI tools, and digital payment systems.
 
