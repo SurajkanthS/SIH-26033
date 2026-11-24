@@ -94,12 +94,18 @@ Strategies for Overcoming These Challenges
 
 ## Impact and Benefits
 Potential Impact on the Target Audience
+
 1.For Farmers and FPOs: Farmers stop being price-takers at the mercy of local brokers. They gain clear visibility into market demand, earn 25% to 35% higher net profits, and receive money straight into their bank accounts on the day of pickup.
+
 2.For Consumers and Bulk Buyers: Households and businesses get farm-fresh, chemical-traceable produce at 15% to 20% lower prices without worrying about sudden middleman price spikes.
+
 3.For Local Transport Owners: Small rural vehicle owners get steady, predictable daily trips instead of waiting idle at transport stands.
 Benefits of the Solution
+
 4.Economic Benefits: Keeps more money inside rural farming communities, helps control food inflation for urban families, and creates local jobs in sorting, crate handling, and rural delivery.
+
 5.Social Benefits: Reduces financial stress and debt cycles among small farmers by ensuring fair, transparent trade and timely digital payments.
+
 6.Environmental Benefits: Combining nearby farm pickups cuts down half-empty truck trips and lowers fuel emissions, while faster farm-to-kitchen delivery significantly reduces post-harvest food waste
 
 ## Research and References
