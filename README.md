@@ -27,7 +27,7 @@ Benefits:
 
 ## Proposed Solution
 Detailed Explanation of the Proposed Solution
-Our idea is to build KisanDirect (or your chosen project name), a direct farm-to-buyer digital marketplace that replaces the traditional multi-layered mandi chain with a single, transparent platform. Instead of forcing small farmers to sell their harvest through four or five local brokers and commission agents, the platform brings farmers, Farmer Producer Organizations (FPOs), bulk buyers (such as restaurants, supermarkets, and hostels), and everyday household consumers onto one connected network.
+Our idea is to build KisanGrow , a direct farm-to-buyer digital marketplace that replaces the traditional multi-layered mandi chain with a single, transparent platform. Instead of forcing small farmers to sell their harvest through four or five local brokers and commission agents, the platform brings farmers, Farmer Producer Organizations (FPOs), bulk buyers such as restaurants, supermarkets, and hostels and everyday household consumers onto one connected network.
 
 The system works across three simple modules:
 
@@ -52,15 +52,15 @@ Innovation and Uniqueness of the Solution
 
 Technologies to be Used
 
-1.Mobile & Web Frontend: Flutter (for a lightweight Android app that works smoothly on budget phones and weak rural internet) and React.js (for the bulk buyer and admin web portals).
+1.Mobile & Web Frontend: Flutter for a lightweight Android app that works smoothly on budget phones and weak rural internet and React.js for the bulk buyer and admin web portals.
 2.Backend & Core APIs: Python with Django REST Framework to handle user accounts, order matching, pricing logic, and database operations securely.
 3.Database & Location Services: PostgreSQL with PostGIS to store farm coordinates, calculate distances, and manage geospatial pickup zones, paired with Redis for fast caching.
 
 AI & Machine Learning:
 
 1.Demand Forecasting: Facebook Prophet and XGBoost trained on historical mandi arrival data, seasonal consumption trends, and local weather forecasts.
-2.Route Optimization: Google OR-Tools to solve the Capacitated Vehicle Routing Problem (CVRP) for multi-farm pickups.
-3.Crop Quality Check: TensorFlow Lite running a compact Convolutional Neural Network (CNN) directly on the phone for instant photo grading.
+2.Route Optimization: Google OR-Tools to solve the Capacitated Vehicle Routing Problem for multi-farm pickups.
+3.Crop Quality Check: TensorFlow Lite running a compact Convolutional Neural Network directly on the phone for instant photo grading.
 4.Payments & Hardware Integration: UPI / Razorpay Route for automated split payments directly to farmers' bank accounts, along with standard QR code stickers for tracking crates during transit.
 
 Methodology and Process for Implementation
@@ -106,7 +106,7 @@ Benefits of the Solution
 1.Google
 
 
-2.Wikipedia
+2.SIH Buddy
 
 
 3.https://timesofindia.indiatimes.com/city/kanpur/complaints-of-farmers-heard-and-resolved-on-spot-during-kisan-diwas/articleshow/135969225.cms
@@ -117,5 +117,5 @@ Benefits of the Solution
 
 5.ChatGPT
 
-6.SIH Buddy
+
 
